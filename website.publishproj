@@ -18,12 +18,12 @@ Copyright (C) Microsoft Corporation. All rights reserved.
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.30319</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{50e6c482-1b8d-45ab-871e-c60e24ff13b7}</ProjectGuid>
+    <ProjectGuid>{75976ce0-a850-44a4-a9d3-12f62bb50aa0}</ProjectGuid>
     <SourceWebPhysicalPath>$(MSBuildThisFileDirectory)</SourceWebPhysicalPath>
-    <SourceWebVirtualPath>/adims-web</SourceWebVirtualPath>
+    <SourceWebVirtualPath>/adims-web2</SourceWebVirtualPath>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
-    <SourceWebProject>http://localhost:26138</SourceWebProject>
-    <SourceWebMetabasePath>/IISExpress/7.5/LM/W3SVC/17/ROOT</SourceWebMetabasePath>
+    <SourceWebProject>http://localhost:9215</SourceWebProject>
+    <SourceWebMetabasePath>/IISExpress/7.5/LM/W3SVC/18/ROOT</SourceWebMetabasePath>
   </PropertyGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
